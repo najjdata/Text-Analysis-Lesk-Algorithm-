@@ -18,7 +18,7 @@ from nltk.stem import WordNetLemmatizer, PorterStemmer
 
 import os
 cwd = os.getcwd()
-os.chdir('C:/Users/elnaj/Desktop/MSBA Classes/classes-FAll 2020/IDS 566 text analytics/assignments/hw2')
+os.chdir('C:/...')
 print(os.getcwd() + "\n")
 
 
